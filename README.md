@@ -16,7 +16,7 @@
 
 ## 사용 방법
 
-1. [Animal Inventory File_240813.csv](https://github.com/YaeRin-Yoo/Animal-Fluency_cluster-analysis/blob/d00cac9f206837b5399093cb23a90726184f9b52/Animal%20Inventory%20File_240813.csv) 다운 받기 
+1. [Animal Inventory File](https://github.com/YaeRin-Yoo/Animal-Fluency_cluster-analysis/blob/d00cac9f206837b5399093cb23a90726184f9b52/Animal%20Inventory%20File_240813.csv) 다운 받기 
 
   + Cluster analysis를 위한 자동 분석은 해당 Animal Inventory File에 기반해 이루어진다.
     

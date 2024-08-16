@@ -27,6 +27,7 @@
     + 파일을 다운한 후, 분석하려는 동물 이름을 파일 내에 있는 동물 명과 일치하게 바꾸어 사용할 수 있다.
    
       + 예) 분석하려는 동물 명 '팬더' , 파일 내에 존재하는 동물 명 '판다' : 팬더 --> 판다 교체 후 분석 시행.
+
       
 2. [Cluster analysis] (https://github.com/YaeRin-Yoo/Animal-Fluency_cluster-analysis/blob/c8c94a7a5e5f616e7e2d4bc567ef2de3854d973f/Cluster_analysis_open.ipynb) 코드 실행
 
@@ -44,19 +45,19 @@
     + <img width="986" alt="image" src="https://github.com/user-attachments/assets/9aff48eb-ff9a-4ac4-ab8b-5a0253a21266">
 
 
-3. 저작권 및 사용권 정보
+## 저작권 및 사용권 정보
 
-   + 동물 유창성 검사 수행력 분석을 위해 해당 동물 분류 군집 기준이나, 자동 분석 방법을 활용할 때는 ***유예린 외., 2024*** 인용 및 언급이 필요하다.
-
-
-4. 업데이트 정보
-
-   + Last Update : 2024.08.16
+동물 유창성 검사 수행력 분석을 위해 해당 동물 분류 군집 기준이나, 자동 분석 방법을 활용할 때는 ***유예린 외., 2024*** 인용 및 언급이 필요하다.
 
 
-5. FAQ
+## 업데이트 정보
 
-   + 이화여자대학교 언어병리학과 신경언어연구실 유예린 (leader9390@ewhain.net or leader9390@naver.com)
+Last Update : 2024.08.16
 
 
-감사합니다.
+## FAQ
+
+이화여자대학교 언어병리학과 신경언어연구실 유예린 (leader9390@ewhain.net or leader9390@naver.com)
+
+
+## 감사합니다.

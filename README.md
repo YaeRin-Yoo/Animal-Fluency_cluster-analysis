@@ -5,6 +5,7 @@
 ## 논문 (Paper)
 
 ***동물 유창성 검사의 채점 및 군집 기준 구체화를 통한 자동 분석 개발 및 타당성 검증 연구 (유예린 외., 2025)***
+
 ***Establishing Automated Analysis Approach in Animal Fluency Task with Clarification of Scoring and Clustering Standards (Yoo et al., 2025)***
 
 
@@ -68,6 +69,7 @@ Yoo et al. (2025) established the criteria for animal clustering in the animal f
 ## 저작권 및 사용권 정보 (Copyright and License Information)
 
 동물 유창성 검사 수행력 분석을 위해 해당 동물 분류 군집 기준이나, 자동 분석 방법을 활용할 때는 ***유예린 외., 2025*** 인용 및 언급이 필요하다.
+
 When using the animal criteria or automated analysis methods, citations and references to Yoo et al. (2025) are required.
 
 
@@ -82,7 +84,8 @@ Last Update : 2024.10.18
 ## FAQ
 
 이화여자대학교 언어병리학과 신경언어연구실 유예린 (leader9390@ewhain.net or leader9390@naver.com)
-Yae Rin Yoo, Ewha Womans University
+
+Yae Rin Yoo, Ewha Womans University (leader9390@ewhain.net or leader9390@naver.com)
 
 
 

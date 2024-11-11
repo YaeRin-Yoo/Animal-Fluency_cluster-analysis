@@ -54,15 +54,16 @@ Yoo et al. (2025) established the criteria for animal clustering in the animal f
   + 대상자가 발화한 동물들을 List 형태로 마지막 함수 final_score 에 넣으면 총 4가지의 값을 return 받을 수 있다.
   + By inputting the list of animals into the final_score function, you can get four different values.
 
-    + c3_cn_f : Total number of clusters
-    + c3_s_f : Total number of switchings
-    + c3_cs_f : Total cluster size
-    + c3_mcs_f : Mean clsuter size
+    + Total number of clusters
+    + Total number of switchings
+    + Total cluster size
+    + Mean clsuter size
    
     + 예시 결과는 아래와 동일하다.
     + Example results are as follows.
    
-    + <img width="986" alt="image" src="https://github.com/user-attachments/assets/9aff48eb-ff9a-4ac4-ab8b-5a0253a21266">
+    + <img width="1047" alt="image" src="https://github.com/user-attachments/assets/41bebd12-c1d0-42a0-a865-6ec5cd947cc5">
+
 
 
 
@@ -77,7 +78,7 @@ When using the animal criteria or automated analysis methods, citations and refe
 
 ## 업데이트 정보 (Update Information)
 
-Last Update : 2024.10.18
+Last Update : 2024.11.11
 
 
 

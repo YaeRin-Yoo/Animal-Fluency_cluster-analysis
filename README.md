@@ -12,7 +12,7 @@
 
 ## 프로젝트 목적 (Purpose of the Project)
 
-***동물 유창성 검사의 채점 및 군집 기준 확립과 자동 분석의 타당성 검증 연구 (유예린 외., 2024)*** 에서는 동물 유창성 검사의 질적 분석을 위한 동물 군집 분류 기준을 한국인의 동물 인식을 반영하여 구체화하였다. 본 연구의 동물 군집 분류 기준을 바탕으로 동물 유창성 검사의 전환 수 (switching), 평균 군집 크기 (mean cluster size)를 분석할 수 있는 자동 분석 코드를 설계하였다. 이에 실제 임상 및 연구 현장에서 누구나 손쉽게 대상자의 동물 유창성 검사 질적 분석을 수행할 수 있도록 자동 분석 코드와 분석에 필요한 Inventory file을 공개한다.
+***동물 유창성 검사의 채점 및 군집 기준 확립과 자동 분석의 타당성 검증 연구 (유예린 외., 2025)*** 에서는 동물 유창성 검사의 질적 분석을 위한 동물 군집 분류 기준을 한국인의 동물 인식을 반영하여 구체화하였다. 본 연구의 동물 군집 분류 기준을 바탕으로 동물 유창성 검사의 전환 수 (switching), 평균 군집 크기 (mean cluster size)를 분석할 수 있는 자동 분석 코드를 설계하였다. 이에 실제 임상 및 연구 현장에서 누구나 손쉽게 대상자의 동물 유창성 검사 질적 분석을 수행할 수 있도록 자동 분석 코드와 분석에 필요한 Inventory file을 공개한다.
 
 Yoo et al. (2025) established the criteria for animal clustering in the animal fluency test, reflecting Korean perspectives on animals. Based on the criteria, the code was designed to analyze switching and mean cluster size in the animal fluency test automatically. To enable easy qualitative analysis of the animal fluency test in clinical and research settings, the automated code and the Inventory file are made publicly available.
 
@@ -78,7 +78,7 @@ When using the animal criteria or automated analysis methods, citations and refe
 
 ## 업데이트 정보 (Update Information)
 
-Last Update : 2024.11.11
+Last Update : 2024.12.13
 
 
 

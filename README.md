@@ -45,8 +45,8 @@
       + Example) If you want to analyze 'tigers' but the file has 'tiger', change it to 'tiger' and rerun the analysis.
 
       
-2. [Cluster analysis] (https://github.com/YaeRin-Yoo/Animal-Fluency_cluster-analysis/blob/c8c94a7a5e5f616e7e2d4bc567ef2de3854d973f/Cluster_analysis_open.ipynb) 코드 실행
-   Run the [Cluster analysis] (https://github.com/YaeRin-Yoo/Animal-Fluency_cluster-analysis/blob/c8c94a7a5e5f616e7e2d4bc567ef2de3854d973f/Cluster_analysis_open.ipynb) code.
+2. [Cluster analysis] 코드 실행
+   Run the [Cluster analysis] code.
 
   + Cluster analysis의 자세한 분석 방법은 ****** 외., 2025*** 에서 소개하고 있다.
   + The detailed analysis method for cluster analysis is described in *** et al. (2025).
